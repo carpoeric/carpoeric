@@ -7,10 +7,11 @@ I'm passionate about software development and love building efficient, scalable 
 - **[MasterMind & Wordle Game Project](https://github.com/carpoeric/MindGames)**
   >  I created this project to help people improve their cognitive skills. I believe that games are a great way to exercise your brain and have fun at the same time. Additionally, I wanted to implement things in this project that would help me improve and showcase my coding skills. I learned a lot about Java and object-oriented programming while working on this project.
 
-## 🗃️ LinkedIn Internship Docs
+## 🗃️ LinkedIn Internship 
+> Due to company privacy and confidentiality policies, I am unable to showcase any source code from my work here. However, I have provided documents that outline my contributions, including project descriptions, architectural diagrams, and technical documentation to give insight into my work without exposing proprietary code. Thank you for understanding!
 
 - **[Copy of Final Internship Presentation: BRMS Multi-Select and Internship Experience](https://docs.google.com/presentation/d/1yKV_-XhkH4lPfwhU5u-3wI41jiH1rgbj3LpvW_8DuP4/edit?usp=sharing)**
-- **[Copy of RFC for BRMS Multi-Select (REACT.js)](https://docs.google.com/document/d/1aCeac7OQ3kdRxru4kbg-7wIL7ayJAQoUiKPtkhBvL1k/edit?usp=sharing)**
+- **[Copy of RFC for BRMS Multi-Select (REACT)](https://docs.google.com/document/d/1aCeac7OQ3kdRxru4kbg-7wIL7ayJAQoUiKPtkhBvL1k/edit?usp=sharing)**
 
 ## 📚 Bootcamp Projects (YearUp)
 
